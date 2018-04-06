@@ -1,0 +1,17 @@
+.example-card {
+  max-width: 250px;
+
+}
+
+.example-header-image {
+  background-image: url('/assets/img/angular.jpg');
+  background-size: cover;
+}
+
+.mat-card-image{
+
+  height:10% !important;
+  width:90%  !important;
+  margin:0px 0px 0px 0px !important;
+
+}
