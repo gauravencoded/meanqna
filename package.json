@@ -2,10 +2,7 @@
   "name": "meanqna",
   "version": "0.0.0",
   "license": "MIT",
-  "engines": {
-    "node": "8.9.4",
-    "npm": "5.6.0"
-  },
+ 
   "scripts": {
     "postinstall": "ng build --aot -prod",
     "ng": "ng",
@@ -51,5 +48,9 @@
     "protractor": "~5.1.2",
     "ts-node": "~4.1.0",
     "tslint": "~5.9.1"
+  } ,
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
   }
 }
